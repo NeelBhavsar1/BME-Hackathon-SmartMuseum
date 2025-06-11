@@ -1,29 +1,22 @@
-🏛️ SmartMuseum — BME Hackathon 2025
-SmartMuseum is an IoT-powered museum assistant designed to enrich visitor engagement with physical exhibitions through proximity sensing and AI interaction. Created during the BME Hackathon 2025, the project combines real-time visitor tracking, personalized exhibit suggestions, and interactive voice-based Q&A to create an intelligent museum experience.
+# 🏛️ SmartMuseum – BME Hackathon Project
 
-🚀 Project Goals
-Make museums more interactive and accessible using low-cost technology.
+**SmartMuseum** is an intelligent museum exhibit helper designed during the BME × University of Liverpool Hackathon.  
+It enriches visitors' experience by dynamically recognizing and presenting information about displays using live video input.
 
-Track user interest in exhibits and trigger actions (like audio or visual cues).
+---
 
-Enable voice-based interaction using AI to answer questions about art pieces.
+## ⚙️ Features
 
-Deliver personalized recommendations based on user behavior.
+- 🎥 **Live Exhibit Detection**: Uses webcam/video feed to identify artifacts or exhibits in real time.
+- 🧠 **AI-Powered Recognition**: Employs a trained machine learning model to classify objects.
+- 📄 **Informational Overlay**: Displays relevant descriptions, historical facts, and media about identified objects.
+- 🔁 **Interactive User Experience**: Continuously updates exhibit info as visitors move through the display.
 
+---
 
+## 🛠️ Built With
 
-🧠 Key Features
-🎯 Proximity-Based Exhibit Detection: Uses camera input or BLE sensors to detect if a user is observing an exhibit.
-
-🗣️ Voice-Activated AI Assistant: After an audio prompt, users can ask questions. Speech-to-text and OpenAI APIs generate a spoken response.
-
-🖼️ Time Tracking: Monitors how long a visitor views each piece, triggering information delivery if the user stays for a defined period.
-
-
-
-🛠️ Tech Stack
-Layer	Technologies Used
-Frontend	HTML, CSS, JavaScript (vanilla)
-Backend	Python (Flask or local scripts)
-AI/Voice	OpenAI GPT API, Web Speech API, TTS
-Sensors	Camera for detection / BLE for presence
+- **Main Technologies:** Python, OpenCV, TensorFlow/PyTorch 
+- **Supplementary Libraries:** NumPy, Pandas, etc.
+- **Model Training Tools:** TensorFlow / PyTorch 
+- **Frontend (if applicable):** HTML/CSS/JavaScript
