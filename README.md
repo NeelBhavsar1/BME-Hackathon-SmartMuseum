@@ -20,3 +20,31 @@ It enriches visitors' experience by dynamically recognizing and presenting infor
 - **Supplementary Libraries:** NumPy, Pandas, etc.
 - **Model Training Tools:** TensorFlow / PyTorch 
 - **Frontend (if applicable):** HTML/CSS/JavaScript
+
+- ---
+
+
+## 🚀 Prequisites
+
+- **Python 3.7+**
+- **`pip` package manager**
+- **Webcam-enabled computer or prerecorded video files**
+
+- ---
+
+## 🎯 Future Enhancements
+
+- **Add a friendly web UI for users.**
+- **Include audio narration and multi-lingual support.**
+- **Build a mobile firendly interface**
+
+---
+
+## Contributors
+
+- **Rocco Lowwe**
+- **Vishnu Keeriyat**
+- **Neel Bhavsar**
+- **Mansoor Saad**
+- **Swastik Swain**
+ 
